@@ -1,8 +1,4 @@
-package shoppingcart;
-
-import shoppingcart.Checkout;
-
-import java.util.HashMap;
+package shoppingcartv1;
 
 public class App {
 
