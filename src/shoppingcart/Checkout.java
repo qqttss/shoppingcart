@@ -11,6 +11,7 @@ public class Checkout {
     public Checkout() {
        basePrices = new HashMap<>();
     }
+
     /**
      * Add a new product and its price
      *
