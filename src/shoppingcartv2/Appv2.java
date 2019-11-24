@@ -1,3 +1,5 @@
+package shoppingcartv2;
+
 import shoppingcartv2.BasicCheckout;
 import shoppingcartv2.SimpleOffer;
 
